@@ -17,8 +17,8 @@
 ## Schedule
 
 ### Week 1 (07/27/2023) - [Chavo Kim](https://github.com/chavokim)
-- [Chapter 4. Fundamentals of Django App Design](4. Fundamentals of Django App Design.md)
-- [Chapter 6. Model Best Practices](6. Model Best Practices.md)
+- [Chapter 4. Fundamentals of Django App Design](./4. Fundamentals of Django App Design.md)
+- [Chapter 6. Model Best Practices](./6. Model Best Practices.md)
 
 ### Week 2 (08/03/2023) - [Charles Na](https://github.com/nayong2021)
 - Chapter 7. Queries and the Database Layer
