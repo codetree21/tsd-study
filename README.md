@@ -3,6 +3,7 @@
 📚 Two scoops of Django 3.x 스터디를 위한 저장소입니다.
 
 - [책 링크](https://www.feldroy.com/books/two-scoops-of-django-3-x)
+- [깃헙 링크](https://github.com/feldroy/two-scoops-of-django-3.x)
 
 ## Rules
 
