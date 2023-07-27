@@ -17,27 +17,27 @@
 ## Schedule
 
 ### Week 1 (07/27/2023) - [Chavo Kim](https://github.com/chavokim)
-4. Fundamentals of Django App Design
-6. Model Best Practices
-7. Queries and the Database Layer
-27. Asynchronous Task Queues
+4 - Fundamentals of Django App Design
+6 - Model Best Practices
+7 - Queries and the Database Layer
+27 - Asynchronous Task Queues
 
 ### Week 2 (08/03/2023) - [Charles Na](https://github.com/nayong2021)
-8. Function- And Class-Based Views
-9. Best Practices for Class-Based Views
-17. Building REST APIs With Django REST Framework
-22. Dealing With the User Model
+8 - Function- And Class-Based Views
+9 - Best Practices for Class-Based Views
+17 - Building REST APIs With Django REST Framework
+22 - Dealing With the User Model
 
 ### Week 3 (08/10/2023) - [Chavo Kim](https://github.com/chavokim)
-24. Testing Stinks and Is a Waste of Money!
-25. Documentation: Be Obsessed
-26. Finding and Reducing Bottlenecks
-28. Security Best Practices
+24 - Testing Stinks and Is a Waste of Money!
+25 - Documentation: Be Obsessed
+26 - Finding and Reducing Bottlenecks
+28 - Security Best Practices
 
 ### Week 4 (08/17/2023) - [Charles Na](https://github.com/nayong2021)
-29. Logging: What’s It For, Anyway?
-31. What About Those Random Utilities?
-35. The Art of Debugging
+29 - Logging: What’s It For, Anyway?
+31 - What About Those Random Utilities?
+35 - The Art of Debugging
 
 ## 📆 스터디 일정
 
