@@ -17,29 +17,37 @@
 ## Schedule
 
 ### Week 1 (07/27/2023) - [Chavo Kim](https://github.com/chavokim)
-- Chapter 4. Fundamentals of Django App Design
-- Chapter 6. Model Best Practices
+- [Chapter 4. Fundamentals of Django App Design](4. Fundamentals of Django App Design.md)
+- [Chapter 6. Model Best Practices](6. Model Best Practices.md)
+
+### Week 2 (08/03/2023) - [Charles Na](https://github.com/nayong2021)
 - Chapter 7. Queries and the Database Layer
 - Chapter 27. Asynchronous Task Queues
 
-### Week 2 (08/03/2023) - [Charles Na](https://github.com/nayong2021)
+### Week 3 (08/10/2023) - [Chavo Kim](https://github.com/chavokim)
 - Chapter 8. Function- And Class-Based Views
 - Chapter 9. Best Practices for Class-Based Views
+
+### Week 4 (08/17/2023) - [Charles Na](https://github.com/nayong2021)
 - Chapter 17. Building REST APIs With Django REST Framework
 - Chapter 22. Dealing With the User Model
 
-### Week 3 (08/10/2023) - [Chavo Kim](https://github.com/chavokim)
+### Week 5 (08/24/2023) - [Chavo Kim](https://github.com/chavokim)
 - Chapter 24. Testing Stinks and Is a Waste of Money!
 - Chapter 25. Documentation: Be Obsessed
+
+### Week 6 (08/31/2023) - [Charles Na](https://github.com/nayong2021)
 - Chapter 26. Finding and Reducing Bottlenecks
 - Chapter 28. Security Best Practices
 
-### Week 4 (08/17/2023) - [Charles Na](https://github.com/nayong2021)
+### Week 7 (09/07/2023) - [Chavo Kim](https://github.com/chavokim)
 - Chapter 29. Logging: What’s It For, Anyway?
 - Chapter 31. What About Those Random Utilities?
+
+### Week 8 (09/14/2023) - [Charles Na](https://github.com/nayong2021)
 - Chapter 35. The Art of Debugging
 
 ## 📆 스터디 일정
 
-- 스터디 기간: 2023/07/27 ~ 2023/08/17 (총 4주)
+- 스터디 기간: 2023/07/27 ~ 2023/09/14 (총 8주)
 - 스터디 세션: 매주 목요일 19:00 ~ 20:30
