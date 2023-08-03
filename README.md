@@ -24,30 +24,30 @@
 - [Chapter 7. Queries and the Database Layer](7.md)
 - [Chapter 27. Asynchronous Task Queues](27.md)
 
-### Week 3 (08/10/2023) - [Chavo Kim](https://github.com/chavokim)
+### Week 3 (08/09/2023) - [Chavo Kim](https://github.com/chavokim)
 - Chapter 8. Function- And Class-Based Views
 - Chapter 9. Best Practices for Class-Based Views
 
-### Week 4 (08/17/2023) - [Charles Na](https://github.com/nayong2021)
+### Week 4 (08/16/2023) - [Charles Na](https://github.com/nayong2021)
 - Chapter 17. Building REST APIs With Django REST Framework
 - Chapter 22. Dealing With the User Model
 
-### Week 5 (08/24/2023) - [Chavo Kim](https://github.com/chavokim)
+### Week 5 (08/23/2023) - [Chavo Kim](https://github.com/chavokim)
 - Chapter 24. Testing Stinks and Is a Waste of Money!
 - Chapter 25. Documentation: Be Obsessed
 
-### Week 6 (08/31/2023) - [Charles Na](https://github.com/nayong2021)
+### Week 6 (08/30/2023) - [Charles Na](https://github.com/nayong2021)
 - Chapter 26. Finding and Reducing Bottlenecks
 - Chapter 28. Security Best Practices
 
-### Week 7 (09/07/2023) - [Chavo Kim](https://github.com/chavokim)
+### Week 7 (09/06/2023) - [Chavo Kim](https://github.com/chavokim)
 - Chapter 29. Logging: What’s It For, Anyway?
 - Chapter 31. What About Those Random Utilities?
 
-### Week 8 (09/14/2023) - [Charles Na](https://github.com/nayong2021)
+### Week 8 (09/13/2023) - [Charles Na](https://github.com/nayong2021)
 - Chapter 35. The Art of Debugging
 
 ## 📆 스터디 일정
 
 - 스터디 기간: 2023/07/27 ~ 2023/09/14 (총 8주)
-- 스터디 세션: 매주 목요일 19:00 ~ 20:30
+- 스터디 세션: 매주 수요일 19:00 ~ 20:30
