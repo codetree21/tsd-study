@@ -21,8 +21,8 @@
 - [Chapter 6. Model Best Practices](6.md)
 
 ### Week 2 (08/03/2023) - [Charles Na](https://github.com/nayong2021)
-- Chapter 7. Queries and the Database Layer
-- Chapter 27. Asynchronous Task Queues
+- [Chapter 7. Queries and the Database Layer](7.md)
+- [Chapter 27. Asynchronous Task Queues](27.md)
 
 ### Week 3 (08/10/2023) - [Chavo Kim](https://github.com/chavokim)
 - Chapter 8. Function- And Class-Based Views
