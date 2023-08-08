@@ -17,11 +17,11 @@
 ## Schedule
 
 ### Week 1 (07/27/2023) - [Chavo Kim](https://github.com/chavokim)
-- [Chapter 4. Fundamentals of Django App Design](4.md)
-- [Chapter 6. Model Best Practices](6.md)
+- [Chapter 4. Fundamentals of Django App Design](04.md)
+- [Chapter 6. Model Best Practices](06.md)
 
 ### Week 2 (08/03/2023) - [Charles Na](https://github.com/nayong2021)
-- [Chapter 7. Queries and the Database Layer](7.md)
+- [Chapter 7. Queries and the Database Layer](07.md)
 - [Chapter 27. Asynchronous Task Queues](27.md)
 
 ### Week 3 (08/09/2023) - [Chavo Kim](https://github.com/chavokim)
