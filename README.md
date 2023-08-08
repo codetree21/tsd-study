@@ -25,8 +25,8 @@
 - [Chapter 27. Asynchronous Task Queues](27.md)
 
 ### Week 3 (08/09/2023) - [Chavo Kim](https://github.com/chavokim)
-- Chapter 8. Function- And Class-Based Views
-- Chapter 9. Best Practices for Class-Based Views
+- [Chapter 8. Function- And Class-Based Views](08.md)
+- [Chapter 10. Best Practices for Class-Based Views](10.md)
 
 ### Week 4 (08/16/2023) - [Charles Na](https://github.com/nayong2021)
 - Chapter 17. Building REST APIs With Django REST Framework
