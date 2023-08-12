@@ -29,7 +29,7 @@
 - [Chapter 10. Best Practices for Class-Based Views](10.md)
 
 ### Week 4 (08/16/2023) - [Charles Na](https://github.com/nayong2021)
-- Chapter 17. Building REST APIs With Django REST Framework
+- [Chapter 17. Building REST APIs With Django REST Framework](17.md)
 - Chapter 22. Dealing With the User Model
 
 ### Week 5 (08/23/2023) - [Chavo Kim](https://github.com/chavokim)
