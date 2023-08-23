@@ -30,7 +30,7 @@
 
 ### Week 4 (08/16/2023) - [Charles Na](https://github.com/nayong2021)
 - [Chapter 17. Building REST APIs With Django REST Framework](17.md)
-- Chapter 22. Dealing With the User Model
+- [Chapter 22. Dealing With the User Model](22.md)
 
 ### Week 5 (08/23/2023) - [Chavo Kim](https://github.com/chavokim)
 - Chapter 24. Testing Stinks and Is a Waste of Money!
