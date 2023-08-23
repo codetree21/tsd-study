@@ -28,23 +28,23 @@
 - [Chapter 8. Function- And Class-Based Views](08.md)
 - [Chapter 10. Best Practices for Class-Based Views](10.md)
 
-### Week 4 (08/16/2023) - [Charles Na](https://github.com/nayong2021)
+### Week 4 (08/23/2023) - [Charles Na](https://github.com/nayong2021)
 - [Chapter 17. Building REST APIs With Django REST Framework](17.md)
 - [Chapter 22. Dealing With the User Model](22.md)
 
-### Week 5 (08/23/2023) - [Chavo Kim](https://github.com/chavokim)
+### Week 5 (08/30/2023) - [Chavo Kim](https://github.com/chavokim)
 - Chapter 24. Testing Stinks and Is a Waste of Money!
 - Chapter 25. Documentation: Be Obsessed
 
-### Week 6 (08/30/2023) - [Charles Na](https://github.com/nayong2021)
+### Week 6 (09/06/2023) - [Charles Na](https://github.com/nayong2021)
 - Chapter 26. Finding and Reducing Bottlenecks
 - Chapter 28. Security Best Practices
 
-### Week 7 (09/06/2023) - [Chavo Kim](https://github.com/chavokim)
+### Week 7 (09/13/2023) - [Chavo Kim](https://github.com/chavokim)
 - Chapter 29. Logging: What’s It For, Anyway?
 - Chapter 31. What About Those Random Utilities?
 
-### Week 8 (09/13/2023) - [Charles Na](https://github.com/nayong2021)
+### Week 8 (09/20/2023) - [Charles Na](https://github.com/nayong2021)
 - Chapter 35. The Art of Debugging
 
 ## 📆 스터디 일정
