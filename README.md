@@ -33,8 +33,8 @@
 - [Chapter 22. Dealing With the User Model](22.md)
 
 ### Week 5 (08/30/2023) - [Chavo Kim](https://github.com/chavokim)
-- Chapter 24. Testing Stinks and Is a Waste of Money!
-- Chapter 25. Documentation: Be Obsessed
+- [Chapter 24. Testing Stinks and Is a Waste of Money!](24.md)
+- [Chapter 25. Documentation: Be Obsessed](25.md)
 
 ### Week 6 (09/06/2023) - [Charles Na](https://github.com/nayong2021)
 - Chapter 26. Finding and Reducing Bottlenecks
