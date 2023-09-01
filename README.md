@@ -1,6 +1,6 @@
 # tsd-study
 
-📚 Two scoops of Django 3.x 스터디를 위한 저장소입니다.
+📚 브랜치앤바운드 사내에서 진행하는 Two scoops of Django 3.x 스터디를 위한 저장소입니다.
 
 - [책 링크](https://www.feldroy.com/books/two-scoops-of-django-3-x)
 - [깃헙 링크](https://github.com/feldroy/two-scoops-of-django-3.x)
