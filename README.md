@@ -37,7 +37,7 @@
 - [Chapter 25. Documentation: Be Obsessed](25.md)
 
 ### Week 6 (09/06/2023) - [Charles Na](https://github.com/nayong2021)
-- Chapter 26. Finding and Reducing Bottlenecks
+- [Chapter 26. Finding and Reducing Bottlenecks](26.md)
 - Chapter 28. Security Best Practices
 
 ### Week 7 (09/13/2023) - [Chavo Kim](https://github.com/chavokim)
