@@ -38,7 +38,7 @@
 
 ### Week 6 (09/06/2023) - [Charles Na](https://github.com/nayong2021)
 - [Chapter 26. Finding and Reducing Bottlenecks](26.md)
-- Chapter 28. Security Best Practices
+- [Chapter 28. Security Best Practices](28.md)
 
 ### Week 7 (09/13/2023) - [Chavo Kim](https://github.com/chavokim)
 - Chapter 29. Logging: What’s It For, Anyway?
