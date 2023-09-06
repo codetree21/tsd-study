@@ -44,10 +44,10 @@
 - Chapter 29. Logging: What’s It For, Anyway?
 - Chapter 31. What About Those Random Utilities?
 
-### Week 8 (09/20/2023) - [Charles Na](https://github.com/nayong2021)
+### Week 8 (09/20/2023) - [Chavo Kim](https://github.com/chavokim)
 - Chapter 35. The Art of Debugging
 
 ## 📆 스터디 일정
 
-- 스터디 기간: 2023/07/27 ~ 2023/09/14 (총 8주)
+- 스터디 기간: 2023/07/27 ~ 2023/09/20 (총 8주)
 - 스터디 세션: 매주 수요일 19:00 ~ 20:30
