@@ -41,8 +41,8 @@
 - [Chapter 28. Security Best Practices](28.md)
 
 ### Week 7 (09/13/2023) - [Chavo Kim](https://github.com/chavokim)
-- Chapter 29. Logging: What’s It For, Anyway?
-- Chapter 31. What About Those Random Utilities?
+- [Chapter 29. Logging: What’s It For, Anyway?](29.md)
+- [Chapter 31. What About Those Random Utilities?](31.md)
 
 ### Week 8 (09/20/2023) - [Chavo Kim](https://github.com/chavokim)
 - Chapter 35. The Art of Debugging
