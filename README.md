@@ -45,7 +45,7 @@
 - [Chapter 31. What About Those Random Utilities?](31.md)
 
 ### Week 8 (09/20/2023) - [Chavo Kim](https://github.com/chavokim)
-- Chapter 35. The Art of Debugging
+- [Chapter 35. The Art of Debugging](35.md)
 
 ## 📆 스터디 일정
 
